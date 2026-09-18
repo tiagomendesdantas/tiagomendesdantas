@@ -30,7 +30,7 @@ I hold a PhD in Industrial Engineering from PUC-Rio and a degree in Statistics f
 
 I built and led data teams at Blu, IBGE, and Wildlife Studios. I have taught at FGV, PUC-Rio, Instituto Infnet, and ENCE.
 
-I also co-founded [HausBank](https://www.hausbank.com.br/), a fintech offering digital banking services and [TokenHaus](https://oria.tokenhaus.com.br/), a Web3 tokenization and securitization platform regulated by Brazil's Securities and Exchange Commission (CVM).
+I also co-founded HausBank, a fintech offering digital banking services and TokenHaus, a Web3 tokenization and securitization platform regulated by Brazil's Securities and Exchange Commission (CVM).
 
 ## Work together
 
