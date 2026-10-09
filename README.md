@@ -2,7 +2,7 @@
 
 I build and evaluate machine learning models to forecast demand, predict customer behavior, and detect anomalies. My work combines statistical research with practical ML and reproducible evaluation.
 
-Here I share research implementations, reusable tools, and experiments that make model performance and limitations easier to understand.
+Here I share research implementations, reusable tools, live forecasts, and experiments that make model performance and limitations easier to understand.
 
 ## Selected work
 
