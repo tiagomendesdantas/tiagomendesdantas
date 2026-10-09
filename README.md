@@ -6,6 +6,14 @@ Here I share research implementations, reusable tools, and experiments that make
 
 ## Selected work
 
+### [2026 Election Outlook](https://github.com/tiagomendesdantas/election-outlook-br)
+
+A live forecast of Brazil's 2026 presidential election, in English and Portuguese: polls, prediction markets, the official count with a projection of the final result, and a runoff forecast from a state-space model that is redone with every new poll. Each forecast is frozen with a timestamp before the vote and scored in public against the plain poll average and the markets.
+
+The project page documents the models, the evaluation plan written before the forecasts, and the record so far, including where the round-one forecast missed. The code is private.
+
+[Live dashboard](https://brelections.tiagodantas.com/en) · [Methodology](https://brelections.tiagodantas.com/en/methodology) · [Project page](https://github.com/tiagomendesdantas/election-outlook-br)
+
 ### [baggets](https://github.com/tiagomendesdantas/baggets)
 
 A Python library for bootstrap forecasting ensembles, with pluggable selection strategies and optional PyTorch N-BEATS models. It connects my published forecasting research with experiments in ensemble selection and statistical versus neural models.
